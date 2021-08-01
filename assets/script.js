@@ -1,1 +1,6 @@
-$(document)
+$(document).ready(function(){
+
+
+
+    
+})
